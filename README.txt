@@ -1,0 +1,1 @@
+This is a project from the CodeCademy Front-end Engineer course. It consists of applying HTML anc CSS to create a homepage for a fictional company. More specifically, it is supposed to practice Flex-box in CSS.
