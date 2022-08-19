@@ -88,11 +88,6 @@ a:hover{
 .row1 h3 {
     font-weight: bold;
 }
-/*.craft {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}*/
 
 .row2 {
     background-image: url("https://codecademy-content.s3.amazonaws.com/PRO/independent-practice-projects/flexbox-business-site/img/blurred-road.jpg");
